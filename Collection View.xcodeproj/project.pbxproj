@@ -15,6 +15,7 @@
 		356E23131EB0704700C71EF4 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 356E23111EB0704700C71EF4 /* LaunchScreen.storyboard */; };
 		356E231E1EB0704700C71EF4 /* Collection_ViewTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 356E231D1EB0704700C71EF4 /* Collection_ViewTests.swift */; };
 		356E23291EB0704700C71EF4 /* Collection_ViewUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 356E23281EB0704700C71EF4 /* Collection_ViewUITests.swift */; };
+		356E23371EB071E000C71EF4 /* MyCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 356E23361EB071E000C71EF4 /* MyCollectionViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		356E23241EB0704700C71EF4 /* Collection ViewUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Collection ViewUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		356E23281EB0704700C71EF4 /* Collection_ViewUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Collection_ViewUITests.swift; sourceTree = "<group>"; };
 		356E232A1EB0704700C71EF4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		356E23361EB071E000C71EF4 /* MyCollectionViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MyCollectionViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 				356E23051EB0704700C71EF4 /* AppDelegate.swift */,
 				356E23071EB0704700C71EF4 /* ViewController.swift */,
 				356E23091EB0704700C71EF4 /* Main.storyboard */,
+				356E23361EB071E000C71EF4 /* MyCollectionViewCell.swift */,
 				356E230F1EB0704700C71EF4 /* Assets.xcassets */,
 				356E23111EB0704700C71EF4 /* LaunchScreen.storyboard */,
 				356E23141EB0704700C71EF4 /* Info.plist */,
@@ -264,6 +267,7 @@
 			files = (
 				356E230E1EB0704700C71EF4 /* Collection_View.xcdatamodeld in Sources */,
 				356E23081EB0704700C71EF4 /* ViewController.swift in Sources */,
+				356E23371EB071E000C71EF4 /* MyCollectionViewCell.swift in Sources */,
 				356E23061EB0704700C71EF4 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
