@@ -1,7 +1,7 @@
 //
 //  ViewController.swift
 //  Collection View
-//
+// Duong Vap Phu
 //  Created by Cntt19 on 4/26/17.
 //  Copyright © 2017 Cntt19. All rights reserved.
 //
